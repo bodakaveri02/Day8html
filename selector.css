@@ -1,6 +1,6 @@
 /* universal selector*/
 *{
-     background-color:rgb(216, 220, 190); 
+     /*background-color:rgb(216, 220, 190); */
       text-align: center;
        
 }
@@ -27,7 +27,7 @@
     border-style: dotted; 
     border-left: 3px dashed red;   /* Left border: 3px dashed red */
       border-right: 3px dotted blue; /* Right border: 3px dotted blue */
-      background-color: #f9f9f9;
+     /* background-color: #f9f9f9;*/
 }
 p{
 color:black;
