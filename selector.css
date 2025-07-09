@@ -42,10 +42,10 @@ h2{
     font-family: "courier";      
 }
 body{
-     border:solid black;
+    /*border:solid black;*/
     border-width: 3px;
-    border-color: black; 
-    border-style: dotted;
+   /* border-color: black; */
+   /* border-style: dotted;*/
   background-image: url("https://images.pexels.com/photos/1324803/pexels-photo-1324803.jpeg?cs=srgb&dl=pexels-matthew-montrone-230847-1324803.jpg&fm=jpg");
 }
 div {
@@ -55,7 +55,7 @@ div {
     font-family: "courier";
 }
 .para{
-    color: blue;
+    color: rgb(135, 251, 63);
 }
 p{
     color: rgb(237, 104, 75);
